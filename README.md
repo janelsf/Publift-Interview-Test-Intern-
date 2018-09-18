@@ -2,9 +2,9 @@
 
 > Publift Interview Test
 
-Html with all the answers is under ./dist/index.html
-Front-end features are built in ./src/components/Answers.vue
-Besides all the request are mocked under ./src/mock/mock.js
+- Html with all the answers is under ./dist/index.html
+- Front-end features are built in ./src/components/Answers.vue
+- Besides all the request are mocked under ./src/mock/mock.js
 
 ## Build Setup
 
